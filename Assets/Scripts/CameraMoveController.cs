@@ -9,7 +9,6 @@ public class CameraMoveController : MonoBehaviour
     public Transform player;
     public float horizontalOffset;
 
-
     // Start is called before the first frame update
     void Start()
     {
